@@ -1,3 +1,3 @@
-# sStructure Synth
+# Structure Synth
 
 Structure Synth Projekte
